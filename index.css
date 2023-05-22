@@ -1,0 +1,8 @@
+html,body{
+    overflow: hidden;
+}
+.rat{
+    background-color: aqua solid;
+    width: 120%;
+    height: 20px;
+}
